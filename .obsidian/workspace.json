@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "netty/内存管理.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d0c250467982fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kafka/broker下线.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0806eba964bd4126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clickhouse/踩坑记录.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "netty/内存管理.md",
+                "file": "clickhouse/踩坑记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "netty/内存管理.md",
+                "file": "clickhouse/踩坑记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "netty/内存管理.md"
+                "file": "clickhouse/踩坑记录.md"
               }
             }
           }
@@ -146,8 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e60ecdfbae14b91",
+  "active": "0806eba964bd4126",
   "lastOpenFiles": [
+    "flink",
+    "kafka/broker下线.md",
+    "clickhouse/踩坑记录.md",
+    "clickhouse",
+    "README.md",
+    "netty/内存管理.md",
+    "kafka",
     "images/netty/netty_thread_cache.jpg",
     "images/netty/未命名文件 (4).jpg",
     "images/netty/netty_mem_8k_2.jpg",
@@ -157,13 +189,10 @@
     "images/netty/netty_mem_pool.jpg",
     "images/netty/netty_mem_8k_1.jpg",
     "images/netty/未命名文件 (1).jpg",
-    "netty/内存管理.md",
     "github clone超时.md",
-    "README.md",
     "images/netty",
     "images",
     "Pasted image 20230318221135.png",
-    "Pasted image 20230318221134.png",
     "netty"
   ]
 }
