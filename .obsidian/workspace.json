@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4058f75617235c84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "netty/内存管理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4058f75617235c84",
+  "active": "0e60ecdfbae14b91",
   "lastOpenFiles": [
-    "github clone超时.md",
+    "images/netty/netty_thread_cache.jpg",
+    "images/netty/未命名文件 (4).jpg",
+    "images/netty/netty_mem_8k_2.jpg",
+    "images/netty/未命名文件 (3).jpg",
+    "images/netty/netty_mem_16k_1.jpg",
+    "images/netty/未命名文件 (2).jpg",
+    "images/netty/netty_mem_pool.jpg",
+    "images/netty/netty_mem_8k_1.jpg",
+    "images/netty/未命名文件 (1).jpg",
     "netty/内存管理.md",
+    "github clone超时.md",
+    "README.md",
+    "images/netty",
+    "images",
     "Pasted image 20230318221135.png",
     "Pasted image 20230318221134.png",
-    "README.md",
     "netty"
   ]
 }
