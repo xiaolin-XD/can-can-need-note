@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a06a35686d3fdfb",
+        "id": "40e27dd01fb7016e",
         "type": "tabs",
         "children": [
           {
-            "id": "dcba925c8d2897d7",
+            "id": "d17933edc4505463",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "netty/内存管理.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "netty/内存管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "netty/内存管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "netty/内存管理.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcba925c8d2897d7",
+  "active": "d17933edc4505463",
   "lastOpenFiles": [
-    "kafka/事物.md",
     "kafka/broker下线.md",
     "kafka/consumer入组的过程.md",
+    "kafka/事物.md",
+    "elasticsearch/Elasticsearch- The Definitive Guide.md",
+    "elasticsearch/Untitled.md",
     "netty/内存管理.md",
+    "elasticsearch",
+    "clickhouse/Untitled",
     "images/netty/Untitled.canvas",
     "images/netty/netty_q.jpg",
     "images/netty/未命名文件 (5).jpg",
