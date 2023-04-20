@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "40e27dd01fb7016e",
+        "id": "de34e03ef48f15ee",
         "type": "tabs",
         "children": [
           {
-            "id": "d17933edc4505463",
+            "id": "276fb95fb989f4eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "kafka/broker下线.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "kafka/broker下线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "kafka/broker下线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "kafka/broker下线.md"
+              }
             }
           }
         ]
@@ -138,24 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d17933edc4505463",
+  "active": "276fb95fb989f4eb",
   "lastOpenFiles": [
-    "kafka/broker下线.md",
     "kafka/consumer入组的过程.md",
     "kafka/事物.md",
-    "elasticsearch/Elasticsearch- The Definitive Guide.md",
     "elasticsearch/Untitled.md",
+    "elasticsearch/Elasticsearch- The Definitive Guide.md",
+    "clickhouse/踩坑记录.md",
+    "Untitled/Untitled.md",
+    "github clone超时.md",
+    "kafka/broker下线.md",
+    "Untitled",
+    "README.md",
     "netty/内存管理.md",
     "elasticsearch",
     "clickhouse/Untitled",
     "images/netty/Untitled.canvas",
     "images/netty/netty_q.jpg",
     "images/netty/未命名文件 (5).jpg",
-    "clickhouse/踩坑记录.md",
     "2023-03-21.md",
     "Untitled.canvas",
-    "README.md",
-    "github clone超时.md",
     "flink",
     "clickhouse",
     "kafka",
